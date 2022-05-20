@@ -264,7 +264,8 @@ color: #3a3a3a;
 
 }
 /*For medium screen size from 950px wide and down*/
-@media screen and (max-width:950px) {
+@media screen and (max-width: 950px) {
+    
       #menu {
         clear: left;
         float: left;
